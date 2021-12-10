@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 [build]
  command = "yarn build"
  publish = "build/"
+=======
+[build]
+ command = "yarn build"
+ publish = "build/"
+>>>>>>> c2a3251a9c1dc7ba4f222a19513427907827e3d0
